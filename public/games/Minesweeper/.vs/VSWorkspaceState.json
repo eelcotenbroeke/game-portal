@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Minesweeper",
+    "\\Minesweeper\\client",
+    "\\Minesweeper\\Utility"
+  ],
+  "SelectedNode": "\\Minesweeper\\client\\solver_probability_engine.js",
+  "PreviewInSolutionExplorer": false
+}

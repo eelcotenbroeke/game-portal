@@ -1,0 +1,32 @@
+[
+	{
+	 "name": "2048",
+	 "slug": "2048",
+	 "description": "Classic number puzzle",
+	 "path": "/games/2048/index.html"
+	 },
+	 	{
+	 "name": "Tetris",
+	 "slug": "Tetris",
+	 "description": "Block game",
+	 "path": "/games/tetris/index.html"
+	 },
+	 	{
+	 "name": "Snake",
+	 "slug": "Snake",
+	 "description": "Snake game",
+	 "path": "/games/snake/index.html"
+	 },
+	 	{
+	 "name": "Minesweeper",
+	 "slug": "Minesweeper",
+	 "description": "Classic puzzle game",
+	 "path": "/games/Minesweeper/index.html"
+	 },
+	{
+	 "name": "FlappyBird",
+	 "slug": "FlappyBird",
+	 "description": "Flappy Bird game",
+	 "path": "/games/flappy-bird/index.html"
+	 }
+]
